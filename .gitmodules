@@ -1,0 +1,3 @@
+[submodule "Adafruit_DotStar_Pi"]
+	path = Adafruit_DotStar_Pi
+	url = git@github.com:adafruit/Adafruit_DotStar_Pi.git
